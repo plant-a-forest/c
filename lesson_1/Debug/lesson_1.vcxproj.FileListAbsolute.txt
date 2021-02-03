@@ -1,0 +1,2 @@
+C:\Users\kingh\Documents\GitHub\c\lesson_1\Debug\lesson_1.exe
+C:\Users\kingh\Documents\GitHub\c\lesson_1\Debug\lesson_1.pdb
